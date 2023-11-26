@@ -27,4 +27,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udammii&layout=compact&bg_color=180,f0f0f0,00000000&title_color=2e2e2e&text_color=2e2e2e"
            /> </div> 
     </div>
-트 소프트 인공지능서비스 기획 KDT 과정 1기
+
