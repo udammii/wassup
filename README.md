@@ -22,9 +22,4 @@
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fudammii%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=udammii&bg_color=180,f0f0f0,00000000&title_color=2e2e2e&text_color=2e2e2e"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udammii&layout=compact&bg_color=180,f0f0f0,00000000&title_color=2e2e2e&text_color=2e2e2e"
-           /> </div> 
-    </div>
 
